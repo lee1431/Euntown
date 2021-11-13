@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Euntown/Euntown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+< h1 align:"center">😄안녕하세요 <strong>최영헌</strong>입니다.😄</h1><br>
+<p align:"center">Email : gjswns21@naver.com</p>
+<p align:"center">Notion : <a href="https://sedate-anise-410.notion.site/Develope-Note-fc6d3f8ee0264c078841a5d2e5a4d7e2">Click!</a></p>
