@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
  <div align=center>
  <h3>안녕하세요 <strong>최영헌</strong> 입니다.</h3>
- <p>Email : gjswns21@naver.com</p>
+ <p>Email : gjswns21@naver.com<br>
  <p>Notion : <a href="https://sedate-anise-410.notion.site/Develope-Note-fc6d3f8ee0264c078841a5d2e5a4d7e2">Click!<a></p>
 </div>
