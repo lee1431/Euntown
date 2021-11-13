@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <div align=center>
    <h3>
-      😄안녕하세요 <strong>최영헌</strong> 입니다.😄
+      😄안녕하세요 최영헌 입니다.😄
 
    </h3>
  </div>
