@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 -->
 <div align=center>
    <h3>
-      😄안녕하세요 <strong>최영헌</strong> 입니다.😄![Uploading image.png…]()
+      😄안녕하세요 <strong>최영헌</strong> 입니다.😄
 
    </h3>
  </div>
  <div align=center>
  <p>
-   Email : gjswns21@naver.com<br>
-   Notion : <a href="https://sedate-anise-410.notion.site/Develope-Note-fc6d3f8ee0264c078841a5d2e5a4d7e2">Click!<a>
+   <strong>Email</strong> : gjswns21@naver.com<br>
+   <strong>Notion</strong> : <a href="https://sedate-anise-410.notion.site/Develope-Note-fc6d3f8ee0264c078841a5d2e5a4d7e2">Click!<a>
  </p>
 </div>
