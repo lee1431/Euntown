@@ -22,6 +22,6 @@ Here are some ideas to get you started:
  <div align=center>
  <p>
    <strong>Email</strong> : gjswns21@naver.com<br>
-   <strong>Notion</strong> : <a href="https://sedate-anise-410.notion.site/Develope-Note-fc6d3f8ee0264c078841a5d2e5a4d7e2">Click!<a>
+   <strong>Notion</strong> : <a href="https://www.notion.so/Develope-note-a6731cef45424734a526b875222b3b77">Click!<a>
  </p>
 </div>
